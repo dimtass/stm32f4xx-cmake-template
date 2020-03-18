@@ -1,0 +1,3 @@
+[submodule "source/libs/noarch_c_lib"]
+	path = source/libs/noarch_c_lib
+	url = https://dimtass@bitbucket.org/dimtass/noarch_c_lib.git
